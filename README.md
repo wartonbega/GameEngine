@@ -2,7 +2,7 @@
 This game engine has been created without any other existing game engine. It uses Tkinter to generate a graphic interface, Pynput to bind keyboard inputs and Threading to allow multitasking.
 
 # Starting
-Start the game with the simple command 'python3 game.py'//
+Start the game with the simple command 'python3 game.py'
 
 # Actions : 
 
